@@ -18,7 +18,7 @@ Tech Stack
 
 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/ai-voice-agent.git
+git clone https://github.com/nazim00723/AiVoiceAgent
 cd ai-voice-agent
 
 2️⃣ Install Dependencies
